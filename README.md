@@ -38,7 +38,7 @@ _ _ _
 
 
 
-# ___Who I am: Kazakh IT girl___ 
+# ___Who I am: Kazakh IT girl:___ 
 
 
 ![image](https://user-images.githubusercontent.com/126094114/225097864-7172f497-fe16-40ad-8efd-29dcd13e7bb8.png),  ![image](https://user-images.githubusercontent.com/126094114/225097333-17c23cd2-8a30-439a-a8f3-782e09592f06.png),
@@ -50,7 +50,7 @@ _ _ _
 
 ---
 
-# ___my hobbies___ 
+# ___my hobbies:___ 
 
    ![image](https://user-images.githubusercontent.com/126094114/225108869-341b9519-b757-442e-a1b6-bda1ea0ee6b2.png),![image](https://user-images.githubusercontent.com/126094114/225110725-ac7a1d56-a2f1-48c9-8cb7-c7859714d9a8.png)
 
