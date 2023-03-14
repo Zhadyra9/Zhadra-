@@ -38,7 +38,7 @@ _ _ _
 
 
 
-# ___Who I am: Kazakh IT girl:___ 
+# ___Who I am: Kazakh IT girl___ 
 
 
 ![image](https://user-images.githubusercontent.com/126094114/225097864-7172f497-fe16-40ad-8efd-29dcd13e7bb8.png),  ![image](https://user-images.githubusercontent.com/126094114/225097333-17c23cd2-8a30-439a-a8f3-782e09592f06.png),
