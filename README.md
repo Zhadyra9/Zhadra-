@@ -2,7 +2,7 @@
 ## *___Software QA Automation Engineer___*
 ### ***_from Kazakhstan_***
 - - -
-### >__*Work hard, play hard__*
+### >__Work hard, play hard__
 
 
 
